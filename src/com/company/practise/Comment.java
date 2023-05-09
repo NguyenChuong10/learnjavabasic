@@ -1,4 +1,4 @@
-package practise;
+package com.company.practise;
 
 /**
  * đây là dòng code trình biên dịch sẽ bỏ qua khi thực thi

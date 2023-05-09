@@ -1,4 +1,4 @@
-package nhapxuat;
+package com.company.nhapxuat;
 import  java.util.Scanner;
 
 public class NhapXuat {

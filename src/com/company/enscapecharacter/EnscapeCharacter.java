@@ -1,4 +1,4 @@
-package enscapecharacter;
+package com.company.enscapecharacter;
 
 public class EnscapeCharacter {
 
