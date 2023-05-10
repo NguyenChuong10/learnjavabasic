@@ -7,4 +7,6 @@ public class LocalVariable {
         System.out.println("secondVariable : "+ secondVariable);
 
     }
+        // biến cục bộ được  khai báo trong hàm và sẽ thực thi khi hàm đó thực thi và sẽ kết thúc khi hàm đó kết thúc
+        // biến toàn cục được khai báo khi bắt đầu thực thi và kết thúc khi trương trình kết thúc
 }
