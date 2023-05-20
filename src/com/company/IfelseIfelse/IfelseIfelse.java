@@ -1,4 +1,4 @@
-package com.company.Ifelselongnhau;
+package com.company.IfelseIfelse;
 
 import java.util.Scanner;
 
